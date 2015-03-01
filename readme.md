@@ -1,5 +1,3 @@
-**Please note that this repository is no longer maintained. I encourage you to instead use PHPSpec and Behat for your testing needs.**
-
 # Getting Started
 
 - [1 - Introduction](docs/01-Introduction.md)
